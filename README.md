@@ -96,7 +96,7 @@ GPU: 架构，显存，频率
 
 总线是一组能为多个部件分时共享的公共信息传送线路。分时和共享是总线的两个特点。
 
-![在这里插入图片描述](D:\workspace\basic\img\bus.png)
+![在这里插入图片描述](./img/bus.png)
 
 ### 音频
 
@@ -360,15 +360,15 @@ ASCII 控制符
 
 ![img](./img/ascii11-22.png)
 
-![img](D:\workspace\basic\img\ascii23-31-127.png)
+![img](./img/ascii23-31-127.png)
 
 ASCII 显示字符
 
-![img](D:\workspace\basic\img\ascii32-43.png)
+![img](./img/ascii32-43.png)
 
-![img](D:\workspace\basic\img\ascii44.png)
+![img](./img/ascii44.png)
 
-![img](D:\workspace\basic\img\ascci56.png)
+![img](./img/ascci56.png)
 
 ### UNICODE
 
